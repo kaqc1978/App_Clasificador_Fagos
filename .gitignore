@@ -1,0 +1,18 @@
+# Ignora modelos y serializadores
+*.pkl
+*.h5
+
+# Ignora archivo de conexión a la base de datos
+config_db.py
+.env
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.log
+*.csv
+.DS_Store
