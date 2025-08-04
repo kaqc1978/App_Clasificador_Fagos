@@ -1,3 +1,5 @@
+# Clasificador TF_IDF de secuencias de ADN
+
 # 1) IMPORTACIONES Y CONFIGURACIÓN INICIAL
 import pandas as pd
 import numpy as np
